@@ -1,0 +1,50 @@
+C:\Users\Muminn\Desktop\final_nurses\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\bin\Debug\Constraints.Tests.dll
+C:\Users\Muminn\Desktop\final_nurses\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\bin\Debug\Constraints.Tests.pdb
+C:\Users\Muminn\Desktop\final_nurses\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Muminn\Desktop\final_nurses\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\bin\Debug\NURSESCHEDULING_FINAL_PROJECT.exe
+C:\Users\Muminn\Desktop\final_nurses\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\bin\Debug\NURSESCHEDULING_FINAL_PROJECT.pdb
+C:\Users\Muminn\Desktop\final_nurses\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\bin\Debug\NURSESCHEDULING_FINAL_PROJECT.exe.config
+C:\Users\Muminn\Desktop\final_nurses\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Muminn\Desktop\final_nurses\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\obj\Debug\Constraints.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Muminn\Desktop\final_nurses\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\obj\Debug\Constraints.Tests.dll
+C:\Users\Muminn\Desktop\final_nurses\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\obj\Debug\Constraints.Tests.pdb
+C:\Users\KAMIL BIELSKI\Downloads\final_nurses\final_nurses\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\bin\Debug\Constraints.Tests.dll
+C:\Users\KAMIL BIELSKI\Downloads\final_nurses\final_nurses\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\bin\Debug\Constraints.Tests.pdb
+C:\Users\KAMIL BIELSKI\Downloads\final_nurses\final_nurses\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\bin\Debug\nunit.framework.dll
+C:\Users\KAMIL BIELSKI\Downloads\final_nurses\final_nurses\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\bin\Debug\NURSESCHEDULING_FINAL_PROJECT.exe
+C:\Users\KAMIL BIELSKI\Downloads\final_nurses\final_nurses\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\bin\Debug\NURSESCHEDULING_FINAL_PROJECT.pdb
+C:\Users\KAMIL BIELSKI\Downloads\final_nurses\final_nurses\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\bin\Debug\NURSESCHEDULING_FINAL_PROJECT.exe.config
+C:\Users\KAMIL BIELSKI\Downloads\final_nurses\final_nurses\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\bin\Debug\nunit.framework.xml
+C:\Users\KAMIL BIELSKI\Downloads\final_nurses\final_nurses\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\obj\Debug\Constraints.Tests.csprojResolveAssemblyReference.cache
+C:\Users\KAMIL BIELSKI\Downloads\final_nurses\final_nurses\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\obj\Debug\Constraints.Tests.dll
+C:\Users\KAMIL BIELSKI\Downloads\final_nurses\final_nurses\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\obj\Debug\Constraints.Tests.pdb
+H:\NURSE_SCHEDULING_FINAL\final_nurses\final_nurses\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\bin\Debug\Constraints.Tests.dll
+H:\NURSE_SCHEDULING_FINAL\final_nurses\final_nurses\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\bin\Debug\Constraints.Tests.pdb
+H:\NURSE_SCHEDULING_FINAL\final_nurses\final_nurses\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\bin\Debug\nunit.framework.dll
+H:\NURSE_SCHEDULING_FINAL\final_nurses\final_nurses\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\bin\Debug\NURSESCHEDULING_FINAL_PROJECT.exe
+H:\NURSE_SCHEDULING_FINAL\final_nurses\final_nurses\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\bin\Debug\NURSESCHEDULING_FINAL_PROJECT.pdb
+H:\NURSE_SCHEDULING_FINAL\final_nurses\final_nurses\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\bin\Debug\NURSESCHEDULING_FINAL_PROJECT.exe.config
+H:\NURSE_SCHEDULING_FINAL\final_nurses\final_nurses\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\bin\Debug\nunit.framework.xml
+H:\NURSE_SCHEDULING_FINAL\final_nurses\final_nurses\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\obj\Debug\Constraints.Tests.csprojResolveAssemblyReference.cache
+H:\NURSE_SCHEDULING_FINAL\final_nurses\final_nurses\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\obj\Debug\Constraints.Tests.dll
+H:\NURSE_SCHEDULING_FINAL\final_nurses\final_nurses\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\obj\Debug\Constraints.Tests.pdb
+C:\Users\Muminn\Desktop\nikita\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\bin\Debug\Constraints.Tests.dll
+C:\Users\Muminn\Desktop\nikita\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\bin\Debug\Constraints.Tests.pdb
+C:\Users\Muminn\Desktop\nikita\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Muminn\Desktop\nikita\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\bin\Debug\NURSESCHEDULING_FINAL_PROJECT.exe
+C:\Users\Muminn\Desktop\nikita\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\bin\Debug\NURSESCHEDULING_FINAL_PROJECT.pdb
+C:\Users\Muminn\Desktop\nikita\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\bin\Debug\NURSESCHEDULING_FINAL_PROJECT.exe.config
+C:\Users\Muminn\Desktop\nikita\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Muminn\Desktop\nikita\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\obj\Debug\Constraints.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Muminn\Desktop\nikita\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\obj\Debug\Constraints.Tests.dll
+C:\Users\Muminn\Desktop\nikita\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\obj\Debug\Constraints.Tests.pdb
+H:\final_nurse\final_nurse\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\bin\Debug\Constraints.Tests.dll
+H:\final_nurse\final_nurse\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\bin\Debug\Constraints.Tests.pdb
+H:\final_nurse\final_nurse\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\bin\Debug\nunit.framework.dll
+H:\final_nurse\final_nurse\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\bin\Debug\NURSESCHEDULING_FINAL_PROJECT.exe
+H:\final_nurse\final_nurse\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\bin\Debug\NURSESCHEDULING_FINAL_PROJECT.pdb
+H:\final_nurse\final_nurse\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\bin\Debug\NURSESCHEDULING_FINAL_PROJECT.exe.config
+H:\final_nurse\final_nurse\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\bin\Debug\nunit.framework.xml
+H:\final_nurse\final_nurse\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\obj\Debug\Constraints.Tests.csprojResolveAssemblyReference.cache
+H:\final_nurse\final_nurse\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\obj\Debug\Constraints.Tests.dll
+H:\final_nurse\final_nurse\NURSESCHEDULING_FINAL_PROJECT\Constraints.Tests\obj\Debug\Constraints.Tests.pdb
